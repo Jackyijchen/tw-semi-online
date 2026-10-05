@@ -2,7 +2,8 @@
   "watchlist": [
     "3702",
     "3036",
-    "8112"
+    "8112",
+    "2330"
   ],
   "names": {
     "3702": "大聯大",
@@ -20,7 +21,7 @@
   },
   "finmind": {
     "enabled": true,
-    "token": ""
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiamFja3lpai5jaGVuQGdtYWlsLmNvbSIsImVtYWlsIjoiamFja3lpai5jaGVuQGdtYWlsLmNvbSIsInRva2VuX3ZlcnNpb24iOjB9.3WyuQhqG6PsJJ8fHT4KhujdYQIJ9vwZo-0ziVZ_9xE0"
   },
   "yahoo": {
     "enabled": true
