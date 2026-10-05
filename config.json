@@ -1,0 +1,43 @@
+{
+  "watchlist": [
+    "3702",
+    "3036",
+    "8112"
+  ],
+  "names": {
+    "3702": "大聯大",
+    "3036": "文曄",
+    "8112": "至上"
+  },
+  "market_override": {},
+  "price_months": 24,
+  "inst_days": 60,
+  "revenue_months": 26,
+  "schedule": {
+    "time_taipei": "19:30",
+    "weekdays": "Mon-Fri",
+    "note": "台股 13:30 收盤後 6 小時"
+  },
+  "finmind": {
+    "enabled": true,
+    "token": ""
+  },
+  "yahoo": {
+    "enabled": true
+  },
+  "tolerance": {
+    "price_pct": 0.5,
+    "volume_pct": 3.0,
+    "revenue_pct": 0.1,
+    "inst_lots": 1,
+    "inventory_pct": 1.0
+  },
+  "request_interval_sec": {
+    "TWSE": 3.5,
+    "TPEx": 2.5,
+    "MOPS": 2.0,
+    "OpenAPI": 0.8,
+    "Yahoo": 0.8,
+    "FinMind": 0.6
+  }
+}
